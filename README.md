@@ -23,4 +23,6 @@ structures and Repository, Unit Of Work structures.
 - 👀 I can read and write data from various devices using TCP/IP and RS232 Protocol.
 - 🌱 I am interested in Blazor and PWA technology. I am still in the application development
 phase as an individual.
-- 📫 How to reach me merve.elmali@outlook.com
+- 📮 How to reach me merve.elmali@outlook.com
+- 📫 How to reach me https://www.linkedin.com/in/birmuhendisingozunden/
+- 👀 Check out my website http://birmuhendisingozunden.com
